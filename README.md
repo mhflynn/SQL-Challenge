@@ -1,5 +1,8 @@
 # SQL-Challenge
-Homework Week 9 
+* Homework week 9, UCI Data Analytics Bootcamp
+
+## Homework submission is file HW9.sql
+* These queries assume sakila database is available via MySQL server. 
 
 ## Using the sakila database, create queries for the following data requests.
 
